@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+10,Jj ,WA,9.25,Wood,100.00,5.15,4.75,515.00,475.00,91.575,1081.575
+11,TT,WA,9.25,Wood,100.00,5.15,4.75,515.00,475.00,91.575,1081.575
+12,ilt,WA,9.25,Wood,100.00,5.15,4.75,515.00,475.00,91.575,1081.575
+13,wear,WA,9.25,Wood,100.00,5.15,4.75,515.00,475.00,91.575,1081.575

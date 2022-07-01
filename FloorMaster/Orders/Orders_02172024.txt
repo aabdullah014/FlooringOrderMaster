@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+5,Testing, person,WA,9.25,Wood,100.00,5.15,4.75,515.00,475.00,9157.50,10147.50

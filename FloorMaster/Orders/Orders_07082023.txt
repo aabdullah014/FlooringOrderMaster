@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+8,Timmy turner,KY,6.00,Wood,1000.00,5.15,4.75,5150.00,4750.00,59400.00,69300.00
